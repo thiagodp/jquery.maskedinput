@@ -1,0 +1,14 @@
+{
+  "name": "jquery.maskedinput",
+  "main": "jquery.maskedinput.js",
+  "ignore": [
+    "**/.*",
+	"src",
+	"test",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+	"jquery": ">=1.4"
+  }
+}
